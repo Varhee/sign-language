@@ -117,7 +117,3 @@ scikit-learn
 - [ ] Export recognised text to speech (TTS)
 
 ---
-
-## 👤 Author
-
-Built by [your name here]
